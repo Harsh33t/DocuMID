@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Custom env file containing keys
+.env
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
