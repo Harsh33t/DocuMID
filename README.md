@@ -36,7 +36,7 @@ graph TD
     F[User Questions] --> G[Query Embedding]
     G --> H[Retrieve Top-3 Cosine Similarity Chunks from FAISS]
     H --> I[Format Prompt with Context + Query]
-    I --> J[Groq API llama3-8b-8192]
+    I --> J[Groq API llama-3.1-8b-instant]
     J --> K[Stream Answer to Chat UI]
 ```
 
