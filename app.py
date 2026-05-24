@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # Load environment variables
-load_dotenv()
+load_dotenv(override=True)
 groq_api_key = os.getenv("GROQ_API_KEY")
 
 # Custom CSS for modern glassmorphism dark styling
