@@ -13,7 +13,11 @@ An elegant, real-time PDF Q&A assistant built with Streamlit, sentence-transform
 ## 📽️ Demo
 
 ![DocuMind Demo Animation](https://raw.githubusercontent.com/Harsh33t/PortAI/main/documind/assets/demo.gif)
-*(Please replace with your own custom Loom/ShareX recorded GIF or screenshot)*
+
+
+
+https://github.com/user-attachments/assets/95e02a7e-888a-41bc-a9bf-d1568ad7b023
+
 
 ---
 
